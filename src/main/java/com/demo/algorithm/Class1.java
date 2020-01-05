@@ -1,4 +1,4 @@
-package com.demo.suanfa;
+package com.demo.algorithm;
 
 import org.junit.Test;
 
@@ -7,8 +7,8 @@ import java.util.Iterator;
 import java.util.Set;
 
 /**
- * @ClassName 算法题1 两数之和
- * @Description TODO
+ * @ClassName Class1
+ * @Description 算法题1 两数之和
  * @Author liujianko
  * @Date 2020-1-3
  **/

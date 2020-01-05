@@ -8,12 +8,12 @@ import java.math.BigDecimal;
 import java.math.RoundingMode;
 
 /**
- * @ClassName ChenBen
+ * @ClassName StockCost
  * @Description 股票买卖成本计算
  * @Author liujianko
  * @Date 2019-9-19
  **/
-public class ChenBen {
+public class StockCost {
 
     @Test
     public void buyTest(){

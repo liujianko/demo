@@ -1,4 +1,4 @@
-package com.demo.demo.java8;
+package com.demo.java8;
 
 
 import org.junit.Before;
@@ -11,7 +11,7 @@ import java.util.stream.Stream;
 
 /**
  * @ClassName Java8
- * @Description TODO
+ * @Description Java8 流式练习
  * @Author liujianko
  * @Date 2019/8/27
  **/

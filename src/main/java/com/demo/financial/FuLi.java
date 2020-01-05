@@ -1,10 +1,10 @@
-package com.demo.calculate;
+package com.demo.financial;
 
 import java.math.BigDecimal;
 import java.math.MathContext;
 
 /**
- * @ClassName FuLi
+ * @ClassName 复利
  * @Description TODO
  * @Author liujianko
  * @Date 2019/8/14

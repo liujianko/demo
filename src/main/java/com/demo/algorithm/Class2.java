@@ -1,10 +1,10 @@
-package com.demo.suanfa;
+package com.demo.algorithm;
 
 import org.junit.Test;
 
 /**
- * @ClassName 算法题2 两数之和
- * @Description TODO
+ * @ClassName Class2
+ * @Description 算法题2 两数之和
  * @Author liujianko
  * @Date 2020-1-5
  **/

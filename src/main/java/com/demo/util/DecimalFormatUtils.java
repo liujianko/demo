@@ -6,7 +6,10 @@ import java.text.DecimalFormat;
 
 /**
  * @ClassName BigDecimalFormatUtils
- * @Description TODO
+ * @Description BigDecimal 转字符串
+ *
+ *          适用场景：BigDecimal 生成两位小数位并返回字符串
+ *
  * @Author liujianko
  * @Date 2019-10-2
  **/
