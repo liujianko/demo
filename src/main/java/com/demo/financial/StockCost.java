@@ -18,16 +18,16 @@ public class StockCost {
     @Test
     public void buyTest(){
         // 原有持仓成本
-        double oldPrice = 4.352D;
+        double oldPrice = 84.15D;
 
         // 原有持仓数量
         double oldCount = 100D;
 
         // 买入价格
-        double newPrice = 5.87D;
+        double newPrice = 84.50D;
 
         // 买入数量
-        double newCount = 600D;
+        double newCount = 100D;
 
         // 沪市？深市？
         String type = HS;
